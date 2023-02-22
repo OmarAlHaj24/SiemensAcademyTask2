@@ -1,0 +1,15 @@
+GitHub Repo: https://github.com/OmarAlHaj24/SiemensAcademyTask2
+
+Task steps:
+
+    1- Created an SSH public key
+    2- Linked the SSH key to my GitHub
+    3- Created a GitHub repo through the terminal
+    4- Created the first function in the main branch
+    5- Created a new branch named "First Branch"
+    6- Created the second function in the First Branch
+    7- Created a new branch named "Second Branch"
+    8- Created the third function in the Second Branch
+    9- Merged the main branch and the First Branch (No conflicts were found)
+    10- Merged the main branch and the Second Branch (A conflict between the second and the third function were found)
+    11- Manually resolved the conflict and committed
