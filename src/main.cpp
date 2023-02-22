@@ -33,7 +33,6 @@ int getMin(const std::vector <int>& vec){
     return min;
 }
 
-
 int main()
 {
     std::vector <int> vec = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
